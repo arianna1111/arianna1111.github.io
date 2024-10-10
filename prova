@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Il filo di Arianna</title>
+</head>
+<body>
+<style type="text/css">
+  h1 {color:#BD5FDB;text-align: center}
+  body {font-family: Garamond, serif;font-size: 18px}
+  h2{text-decoration-line: underline;text-decoration-style: wavy;}
+</style>
+<h1> Il filo di Arianna </h1>
+<div style="background-color:rgba(94, 219, 168, 0.5);border-radius: 10px">
+  <h2> Chi sono? </h2>
+  Ciao, sono Arianna e ho 21 anni. <br>
+  Ho iniziato a fare all'uncinetto a Febbraio 2024 e da quella volta non ho più smesso.
+  In questa pagina ho catalogato tutti i miei proggetti finiti con relative foto e pattern che ho seguito/ inventato.
+  <br><br>
+</div>
+
+<h2> Progetti</h2>
+<ul>
+  <li>Porta libro</li>
+  <li>Top</li>
+  <li>Maglione</li>
+</ul>
+
+
+</body>
+</html>
